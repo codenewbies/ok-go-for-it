@@ -1,0 +1,37 @@
+header {
+	background: yellow;
+	padding: 15px 0px;
+}
+
+.wrapper {
+	margin: 0px auto;
+	max-width: 700px;
+}
+
+h1 {
+	font-family: "Cooper Black", "Arial Black", serif;
+	font-size: 36px;
+}
+
+h1,nav, ul, li {
+	display: inline;
+}
+
+a{
+	color: black;
+	text-decoration: none;
+	font-family: "Helvetica", serif;
+	font-size: 24px;
+}
+
+header ul {
+	float: right;
+}
+
+li {
+	padding-left: 15px;
+}
+
+footer {
+	background: yellow;
+}
